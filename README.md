@@ -10,7 +10,7 @@
 
 <!-- End of header -->
 <br>
-<img align="left" width="200px" height="130px" alt="GIF" src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" />
+<img align="left" width="200px" height="125px" alt="GIF" src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" />
 
 &emsp; &emsp; 🎓 &nbsp; PhD Student at Vanderbilt University, advised by [Dr. Kevin Leach](https://kjl.name).<br>
 &emsp; &emsp; 🔭 &nbsp; Interested in ML security, notably adversarial machine learning. <br>
