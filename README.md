@@ -6,7 +6,7 @@
   <a href="mailto:hi@ngoc.io">email</a>
 </h1>
 
-<img align="center" width="1000px" height="5px" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGRmaTBoZnhyOWlxdWV5c3h5dW82dTN6aXBsenJ5bW5jYXUyYzV1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1pmatQ3LcP5XFYxSWF/giphy-downsized.gif" />
+<img align="center" width="1000px" height="2px" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGRmaTBoZnhyOWlxdWV5c3h5dW82dTN6aXBsenJ5bW5jYXUyYzV1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1pmatQ3LcP5XFYxSWF/giphy-downsized.gif" />
 
 <!-- End of header -->
 <br>
@@ -17,7 +17,7 @@
 &emsp; &emsp; 🎹 &nbsp; Hobbies include [music](https://www.youtube.com/@_kwkt), playing basketball, and [Genshin Impact](https://akasha.cv/profile/642155323). <br>
 &emsp; &emsp; 🔐 &nbsp; Retired [self-taught](https://github.com/ngoctnq/cryptopals) cryptography [CTF player](https://cryptohack.org/user/ngoctnq/). <br><br><br>
 
-<img align="center" width="1000px" height="5px" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGRmaTBoZnhyOWlxdWV5c3h5dW82dTN6aXBsenJ5bW5jYXUyYzV1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1pmatQ3LcP5XFYxSWF/giphy-downsized.gif" />
+<img align="center" width="1000px" height="2px" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGRmaTBoZnhyOWlxdWV5c3h5dW82dTN6aXBsenJ5bW5jYXUyYzV1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1pmatQ3LcP5XFYxSWF/giphy-downsized.gif" />
 
 <!-- End of body -->
 
