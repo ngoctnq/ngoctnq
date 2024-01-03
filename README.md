@@ -3,7 +3,8 @@
   <a href="https://blog.ngoc.io">blog</a> &emsp; | &emsp;
   <a href="https://linkedin.com/in/ngoctnq">linkedin</a> &emsp; | &emsp;
   <a href="https://scholar.google.com/citations?user=j2oMsAAAAJ&user=hba44u0AAAAJ">scholar</a> &emsp; | &emsp;
-  <a href="mailto:hi@ngoc.io">email</a>
+  <a href="mailto:hi@ngoc.io">email</a> &emsp; | &emsp;
+  <a href="https://ngoc.io/resume.pdf">cv</a>
 </h1>
 
 <img align="center" width="1000px" height="2px" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGRmaTBoZnhyOWlxdWV5c3h5dW82dTN6aXBsenJ5bW5jYXUyYzV1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1pmatQ3LcP5XFYxSWF/giphy-downsized.gif" />
